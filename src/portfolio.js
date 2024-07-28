@@ -25,7 +25,7 @@ const projects = [
         description:
             'Cy Vega Electronic Shop is a dynamic and user-friendly e-commerce platform designed to provide customers with a seamless and enjoyable shopping experience for all their electronic needs. The platform offers a wide range of high-quality electronic products, including the latest gadgets, accessories, and home electronics, all at competitive prices',
         stack: ['CSS', 'Bootstrap', 'PHP', 'JavaScript', 'MySql', 'PhpMyAdmin'],
-        sourceCode: 'https://github.com/riskyle/side-project-2',
+        sourceCode: 'https://github.com/riskyle/cy-vega-electronic-shop',
         livePreview: 'https://vega-shop.wuaze.com/',
     },
     // {
