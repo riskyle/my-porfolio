@@ -28,22 +28,14 @@ const projects = [
         sourceCode: 'https://github.com/riskyle/cy-vega-electronic-shop',
         livePreview: 'https://vega-shop.wuaze.com/',
     },
-    // {
-    //   name: 'Project 2',
-    //   description:
-    //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    //   stack: ['SASS', 'TypeScript', 'React'],
-    //   sourceCode: 'https://github.com',
-    //   livePreview: 'https://github.com',
-    // },
-    // {
-    //   name: 'Project 3',
-    //   description:
-    //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    //   stack: ['SASS', 'TypeScript', 'React'],
-    //   sourceCode: 'https://github.com',
-    //   livePreview: 'https://github.com',
-    // },
+    {
+        name: 'Furniture Shop',
+        description:
+            'Furniture Shop is an online platform dedicated to offering a wide range of high-quality furniture and home decor solutions. Catering to various styles and preferences, this website provides a user-friendly shopping experience for customers looking to enhance their living spaces',
+        stack: ['CSS', 'PHP', 'JavaScript', 'MySql', 'PhpMyAdmin'],
+        sourceCode: 'https://github.com/riskyle/furniture-shop.git',
+        livePreview: 'https://furniture.is-best.net/user/index.php',
+    },
 ]
 
 const skills = [
